@@ -29,7 +29,6 @@ You:
 7. Client session should type first, server will receive. Then it is the server's turn, and so on.
 
 Server:
-denver:~/chatprogram$
 denver:~/chatprogram$ ./chat
 Waiting for a connection on
 129.82.44.141 port 11111
