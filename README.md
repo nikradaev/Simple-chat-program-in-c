@@ -77,7 +77,10 @@ denver:~/chatprogram$
 10. To clean, type 'make clean' and hit enter
 
 denver:~/chatprogram$ make clean
+
 rm chat
+
 denver:~/chatprogram$
+
 
 11. If, for some reason the binding soket error occurs, feel free to change a PORT NUMBER in chat.c file. Recompile and Run. However I tried my best so server will be closing its socket properly.
